@@ -1,0 +1,3 @@
+#Redirect 302 /etudiant/connect.php http://univ-mosta.tech/comingsoon
+#php_flag display_errors off
+Options -Indexes
