@@ -1,0 +1,27 @@
+.admin_body{
+        height: 820px;
+        background-color: #e5e5e5;
+    }
+
+.container.admin_form{
+        max-width: 800px;
+      
+    
+    }
+
+.body{
+   /*  zoom: 0.9; */
+    height: 57rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+    background-color: #d8cfd0;
+
+
+}
+
+.container-fluid.body {
+    padding-right: 40px;
+}
+
